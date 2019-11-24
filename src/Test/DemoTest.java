@@ -8,6 +8,5 @@ public class DemoTest {
 
     public static void main(String[] args) {
         DemoTest demoTest = new DemoTest();
-        demoTest.test1();
     }
 }
