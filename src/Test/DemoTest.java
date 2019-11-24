@@ -8,5 +8,7 @@ public class DemoTest {
 
     public static void main(String[] args) {
         DemoTest demoTest = new DemoTest();
+        DemoTest demoTest2 = new DemoTest();
+
     }
 }
